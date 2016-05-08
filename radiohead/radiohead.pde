@@ -4,7 +4,7 @@ void setup() {
   fill(255, 255, 255);
   stroke(255, 255, 255);
   
-  PFont thick = createFont("BebasNeue Bold.ttf", 80);
+  PFont thick = createFont("BebasNeue Bold.otf", 80);
   textSize(80);
   textFont(thick);
   pushMatrix();
